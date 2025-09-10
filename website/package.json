@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@docusaurus/core": "^2.4.1",
-    "@docusaurus/preset-classic": "^2.4.1",
+    "@docusaurus/preset-classic": "^3.5.0",
     "@docusaurus/theme-search-algolia": "^2.4.1",
     "@google-web-components/google-chart": "^5.0.5",
     "@lit-labs/react": "^1.1.1",
